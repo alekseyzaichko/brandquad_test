@@ -1,2 +1,2 @@
-To run project use `docker-compose build && docker-compose run backend`.
+To run project use `docker-compose up --build` 
 Frontend will be open at http://localhost:8000/
